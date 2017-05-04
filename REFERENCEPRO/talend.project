@@ -694,4 +694,5 @@
   <TalendProperties:User xmi:id="_V9tzUnMmEeaF4u6PcgRfhQ" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_hQKT0DDXEee5C6fY3NAsEw" login="security@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
   <TalendProperties:User xmi:id="_hQK64DDXEee5C6fY3NAsEw" login="security@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_NQuY0DD2Eee5C6fY3NAsEw" login="Trigger-Runner" type="MDM"/>
 </xmi:XMI>
