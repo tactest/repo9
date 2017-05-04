@@ -10,4 +10,11 @@
 		<nature>org.talend.core.talendnature</nature>
 		<nature>com.oaklandsw.transform.runtime.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>temp/jdGenerateJob_0.1.jobscript</name>
+			<type>1</type>
+			<location>D:/automation/hudson_tac_wld/org.talend.autotest.ci/org.talend.selenium.tac.test/target/classes/org/talend/tac/folder/importItems/jdGenerateJob_0.1.jobscript</location>
+		</link>
+	</linkedResources>
 </projectDescription>
